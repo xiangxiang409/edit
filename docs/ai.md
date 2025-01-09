@@ -361,6 +361,7 @@
 ***
 
 ## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_upscale_.2F_restore)
+* [AI Photo Restoration](https://www.pokecut.com/tools/photo-restoration) / No Signup
 
 ***
 
